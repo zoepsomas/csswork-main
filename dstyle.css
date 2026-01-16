@@ -19,12 +19,15 @@
     .underline {
         text-decoration:underline;
     }
-    .background{
+
+    #trip{
         background-color: rgb(208, 0, 255);
     }
+
     div{
         background-color:rgb(189, 222, 135);
     }
+    
     p{
         color:aliceblue;
         background-color:blueviolet
