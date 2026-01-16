@@ -24,7 +24,6 @@
     }
     div{
         background-color:rgb(189, 222, 135);
-        border: red thick solid;
     }
     p{
         color:aliceblue;
@@ -36,3 +35,22 @@
         font-size: larger;
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     }
+
+    .header{
+        border: red thick solid;
+    }
+
+    .experience{
+        border:rgb(254, 118, 68) thick solid;
+    }
+
+    .newsletter{
+        border:yellow thick solid;
+    }
+
+    .gallery{
+        border: blue thick solid;
+    }
+
+
+
